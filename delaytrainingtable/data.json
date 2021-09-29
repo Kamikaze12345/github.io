@@ -52,6 +52,28 @@
     "adddate": "2021\/09\/09"
   },
   {
+    "md5": "7b097ec723fbefcc45702c9b9ead0255",
+    "org_level": 9,
+    "title": "The Clock Song [D-Normal]",
+    "artist": "ぶどうとう mov : Hashirama Higashikata \/ obj: qtp13",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=246&event=127",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=03482",
+    "name_diff": null,
+    "org_md5s": [
+      "391cc61ae7a1a44e744e66c1e8daac81",
+      "9bd0ec1b38e1ec4fd2b626b33832913b",
+      "2ed0d5e3044e0451f60068ce260c2c46",
+      "a4f168cc6b1317c8981994de454168ca",
+      "7b097ec723fbefcc45702c9b9ead0255"
+    ],
+    "org_md5": "391cc61ae7a1a44e744e66c1e8daac81",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "4b4f04f9d67d613dacf7df5dfe9a8ac4",
     "org_level": 1,
     "title": "End Time - to the Eden -",
@@ -66,6 +88,28 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/09"
+  },
+  {
+    "md5": "a4f168cc6b1317c8981994de454168ca",
+    "org_level": 12,
+    "title": "The Clock Song [D-Hyper]",
+    "artist": "ぶどうとう mov : Hashirama Higashikata \/ obj: qtp13",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=246&event=127",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=03482",
+    "name_diff": null,
+    "org_md5s": [
+      "391cc61ae7a1a44e744e66c1e8daac81",
+      "9bd0ec1b38e1ec4fd2b626b33832913b",
+      "2ed0d5e3044e0451f60068ce260c2c46",
+      "a4f168cc6b1317c8981994de454168ca",
+      "7b097ec723fbefcc45702c9b9ead0255"
+    ],
+    "org_md5": "391cc61ae7a1a44e744e66c1e8daac81",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "ac8f91b6b7da90badb18fea021e38c0a",
@@ -142,6 +186,33 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/09"
+  },
+  {
+    "md5": "8ff6b49a96dc4f89552a74477f2cc361",
+    "org_level": 4,
+    "title": "BLAST [Another+]",
+    "artist": "syzfonics obj: qtp13",
+    "folder": "LEVEL 3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8ff6b49a96dc4f89552a74477f2cc361",
+      "1792040e007458f2bda60b1581731c66",
+      "804244eddafdf1ae0b120e4ba36a726b",
+      "3485477d8cbeb8a565cf6ecb359b63ce",
+      "620e8cd86cf8b1e0561a4b8171089acb",
+      "9ca41c808d095222db6aa33849615483",
+      "fb4aaeb495db129a45514a79872d4a90",
+      "608ae26ed7f1170170a6e7b609c4fcf2",
+      "836299568e5b4543a4339444877e70cb",
+      "4112ebbea613f443833d2bea0ed0bcff"
+    ],
+    "org_md5": "8ff6b49a96dc4f89552a74477f2cc361",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "8fb80c9edb5cb517a28f0c6f0c95f461",
@@ -597,6 +668,41 @@
     "adddate": "2021\/09\/28"
   },
   {
+    "md5": "f5e76cca3b8c778042102041b59a036b",
+    "org_level": 9,
+    "title": "marine snow",
+    "artist": "LaValse obj: qtp13",
+    "folder": "LEVEL 8",
+    "level": "8",
+    "lr2_bmsid": null,
+    "url": "http:\/\/web.archive.org\/web\/20060215101559\/http:\/\/bof.nothing.sh\/bof2005\/LaValse_marinesnow.rar",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00564",
+    "name_diff": null,
+    "org_md5s": [
+      "3e10bd402d5a0df48d81ec1a055941b4",
+      "f5e76cca3b8c778042102041b59a036b",
+      "d471465bb8e45b3867827dd436017607",
+      "450997e98805bd641906fd560eeb7395",
+      "030b1df5af6ee44b52a7dc522063b8c9",
+      "69a14b0f41f41ef0eb7b3f2998de4e03",
+      "18396f621c5560bbc44a24d626b67ae2",
+      "412b4a5a4bb668afdf76b8c696d552b7",
+      "e6989cd8b24af03d12c3b9b37d65d87c",
+      "7cdedb01c0e79043fdd7456d3c633b30",
+      "775644790466b6a97336670a7efe0813",
+      "4c939381c7669de4f793e94a2fcda7c1",
+      "0adb68c5d8362e2e4df1875530c1730e",
+      "40d28e5c95f1c5f1acb00c7444ee404f",
+      "fafcf488c57e23333a918309a587a7fe",
+      "879b2dea5bbca41e173d17813594c77b",
+      "1063c51d6e23b4be55045bb45bd3fcb5",
+      "7161babf2d573ecea4dd5106f9a85cd4"
+    ],
+    "org_md5": "3e10bd402d5a0df48d81ec1a055941b4",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "50466d38deeb5543d83e1263364485d5",
     "org_level": 8,
     "title": "Udongebanded -LUNATIC-",
@@ -952,6 +1058,33 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/09"
+  },
+  {
+    "md5": "3485477d8cbeb8a565cf6ecb359b63ce",
+    "org_level": 11,
+    "title": "BLAST [Radiation-]",
+    "artist": "syzfonics obj: qtp13",
+    "folder": "LEVEL 11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8ff6b49a96dc4f89552a74477f2cc361",
+      "1792040e007458f2bda60b1581731c66",
+      "804244eddafdf1ae0b120e4ba36a726b",
+      "3485477d8cbeb8a565cf6ecb359b63ce",
+      "620e8cd86cf8b1e0561a4b8171089acb",
+      "9ca41c808d095222db6aa33849615483",
+      "fb4aaeb495db129a45514a79872d4a90",
+      "608ae26ed7f1170170a6e7b609c4fcf2",
+      "836299568e5b4543a4339444877e70cb",
+      "4112ebbea613f443833d2bea0ed0bcff"
+    ],
+    "org_md5": "8ff6b49a96dc4f89552a74477f2cc361",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "204ee14c895065cf70c41db4626126d8",
@@ -1624,6 +1757,29 @@
     "adddate": "2021\/09\/09"
   },
   {
+    "md5": "0cedbb3103940c91383b35587e35f010",
+    "org_level": 13,
+    "title": "Raspberry Memories [BARCADIA]",
+    "artist": "吟世かいな obj: 8posai edit by qtp13",
+    "folder": "LEVEL 16",
+    "level": "16",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/ippaitukuru2019\/39",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02721",
+    "name_diff": null,
+    "org_md5s": [
+      "0cedbb3103940c91383b35587e35f010",
+      "e97ffea36d4e8cfb0a115119c878923d",
+      "8ee53f14c5cb979d033fd42ae26954b3",
+      "b0971ff17cb924eb4c52f168c1694d52",
+      "cfc977fd03cd4bbd03c04e098d2eecea",
+      "3400cd27d056469a79489e0bf8fbcfde"
+    ],
+    "org_md5": "0cedbb3103940c91383b35587e35f010",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "ea757b1d7c9ab6a9bba798d4ca4abfaf",
     "org_level": 16,
     "title": "Red -reduction division-[BLACK MOON]",
@@ -1654,6 +1810,28 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/09"
+  },
+  {
+    "md5": "2ed0d5e3044e0451f60068ce260c2c46",
+    "org_level": 16,
+    "title": "The Clock Song [D-Another]",
+    "artist": "ぶどうとう mov : Hashirama Higashikata \/ obj: qtp13",
+    "folder": "LEVEL 16",
+    "level": "16",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=246&event=127",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=03482",
+    "name_diff": null,
+    "org_md5s": [
+      "391cc61ae7a1a44e744e66c1e8daac81",
+      "9bd0ec1b38e1ec4fd2b626b33832913b",
+      "2ed0d5e3044e0451f60068ce260c2c46",
+      "a4f168cc6b1317c8981994de454168ca",
+      "7b097ec723fbefcc45702c9b9ead0255"
+    ],
+    "org_md5": "391cc61ae7a1a44e744e66c1e8daac81",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "4740f1738d6bc3eb58d378f977fbd7c8",
@@ -2586,6 +2764,33 @@
     "adddate": "2021\/09\/21"
   },
   {
+    "md5": "9ca41c808d095222db6aa33849615483",
+    "org_level": 20,
+    "title": "BLAST [Re:Radiation]",
+    "artist": "syzfonics obj: qtp13",
+    "folder": "LEVEL 20",
+    "level": "20",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8ff6b49a96dc4f89552a74477f2cc361",
+      "1792040e007458f2bda60b1581731c66",
+      "804244eddafdf1ae0b120e4ba36a726b",
+      "3485477d8cbeb8a565cf6ecb359b63ce",
+      "620e8cd86cf8b1e0561a4b8171089acb",
+      "9ca41c808d095222db6aa33849615483",
+      "fb4aaeb495db129a45514a79872d4a90",
+      "608ae26ed7f1170170a6e7b609c4fcf2",
+      "836299568e5b4543a4339444877e70cb",
+      "4112ebbea613f443833d2bea0ed0bcff"
+    ],
+    "org_md5": "8ff6b49a96dc4f89552a74477f2cc361",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "6f0f43196764fedcbbdd8d480b26ab15",
     "org_level": 0,
     "title": "Blue-White Crazystars[HARDEST]",
@@ -2616,6 +2821,31 @@
     "org_md5": "",
     "comment": "sub sl12\/280",
     "adddate": "2021\/09\/21"
+  },
+  {
+    "md5": "9006cd92867eb258b50c5c6fc3b8f078",
+    "org_level": 17,
+    "title": "Cynical [drrrr]",
+    "artist": "Blue-J obj: qtp13",
+    "folder": "LEVEL 20",
+    "level": "20",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=248&event=116",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02699",
+    "name_diff": null,
+    "org_md5s": [
+      "344e107ec940af75623ed7fc10b20427",
+      "8024673739958ef32d8eaca8bed536b5",
+      "10969531b76b758f71a7a6ce64f6344f",
+      "9006cd92867eb258b50c5c6fc3b8f078",
+      "b69bffc4ef9f8dfa203df2566f4a2c4b",
+      "b78906c7796ad0e9c4221602ac3b8a61",
+      "e09d8e09dc0f26e486e6fed1564f90d3",
+      "6e0ef8c3434695d5fffce2293e37fb73"
+    ],
+    "org_md5": "344e107ec940af75623ed7fc10b20427",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "bb039ac3a3d097d69569f44e0ac80b09",
@@ -5728,6 +5958,29 @@
     "adddate": "2021\/09\/21"
   },
   {
+    "md5": "8163b42e9915a84ef118be9d21ad48ca",
+    "org_level": 22,
+    "title": "緑眼のジェラシー [小鬼]",
+    "artist": "zun \/ hakuto obj: qtp13 respect for q1",
+    "folder": "LEVEL 24",
+    "level": "24",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00733",
+    "name_diff": null,
+    "org_md5s": [
+      "5b6cc7c33905cd802fb2fdfc16db2dda",
+      "99df732558de7a852851d03c912dad4b",
+      "156e47654fe0f3113343c15b553696e4",
+      "2727c25838d47b5b9ddd485c20475792",
+      "8163b42e9915a84ef118be9d21ad48ca",
+      "d8b5af1b34c32b8c05a51d8988f4c2df"
+    ],
+    "org_md5": "5b6cc7c33905cd802fb2fdfc16db2dda",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "bc2fc830f05f36608ed1b9720f9eb919",
     "org_level": 5,
     "title": "Alt Futur [Future+]",
@@ -6099,6 +6352,49 @@
     "adddate": "2021\/09\/28"
   },
   {
+    "md5": "232e94ed7438a14cd05e506b15ab4458",
+    "org_level": 22,
+    "title": "アズール <DELAY>",
+    "artist": "メスクラ (エヴァたん＆メコたん) obj: qtp13",
+    "folder": "LEVEL 25",
+    "level": "25",
+    "lr2_bmsid": null,
+    "url": "https:\/\/onedrive.live.com\/?id=FC95A680740CA8C9!111&cid=FC95A680740CA8C9",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/63",
+    "name_diff": null,
+    "org_md5s": [
+      "77ab0d7b0eca8e8b1d9e84fa41fb543b",
+      "bd04e1b7c7f225f2873f0943af9574a4",
+      "68a32e0f4c783b06a6561d7494e1cb31",
+      "f3e84badb0c1bc9f2b942b9ac673cc74",
+      "0cc47c2696e92a2bf2cc9a95fe13b6b8",
+      "dcfdfac49680bb29be1b4ef9c4ed328f",
+      "e4af48827515f157d32f9d37171734c4",
+      "1156367e133e0e1a7191684251280394",
+      "dce9793e55b5462723279b280cfb9fd7",
+      "24de0f65402e47ecdcd933a51ba83dc0",
+      "26565df96061f65cf3cf018c6b854a97",
+      "e828e2bc01dfa4d3a37fb6750b506406",
+      "42f8d6a42d8277cb5a3d84e713a6435c",
+      "aee417151f8a16e34bda157205823093",
+      "447be683f70017208372079fe55ef5e5",
+      "bd6291950cc0a1eafa9005250df5f3aa",
+      "9bc32b60b2661a997c00556271547796",
+      "ad1b0d12656c9261f1dc93f585c7c284",
+      "34ef021066ca17f8014bd6bc0973453d",
+      "de32b7a4c93d8e144468360f292bfa19",
+      "a692b5c328b840ff2eb61ef53830b196",
+      "6860cf751da8e2e975f460d9311acf51",
+      "c1b9aa6ee6e21fcd2f8197496b623ce1",
+      "94f67ac5922f9053542a87857ec771dc",
+      "6b9c69db8be91b556bc7a58e37fff797",
+      "232e94ed7438a14cd05e506b15ab4458"
+    ],
+    "org_md5": "77ab0d7b0eca8e8b1d9e84fa41fb543b",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "3c21b7c732a3f8e49cac9531792ffa9e",
     "org_level": 5,
     "title": "インフェルノシティ[SOUL METRO 地獄鉄 裏号線 新設洞駅 地下死階]",
@@ -6448,6 +6744,42 @@
     "org_md5": "a02b3a60b2a144418f9eab31bea5359f",
     "comment": "",
     "adddate": "2021\/09\/21"
+  },
+  {
+    "md5": "a3b95b504e660fd9a0a645d488e5d54a",
+    "org_level": 23,
+    "title": "Alice in Misanthrope -厭世アリス-[LUNACY]",
+    "artist": "LeaF Movie:想起 \/ Illust:セシル◇タイト \/ obj: qtp13",
+    "folder": "LEVEL 26",
+    "level": "26",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=501&event=110",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00285",
+    "name_diff": null,
+    "org_md5s": [
+      "6327c035cb0a7ab779c5edc484edfc9e",
+      "247694c692a7b870a327b157d182740d",
+      "3c2a5cf294fdcf75af42811b6693a713",
+      "c78ba7299e4b559c31e8ba108305ed82",
+      "c8d046754801e02f12f70a06e1057156",
+      "e9bcd1ab5ab0bcf99cdfc5ef90644ccb",
+      "d4d1121468e3a2c6df5e7ace219be6ed",
+      "1e4cf6ab1e453a9cc009753b3b69e341",
+      "56cda28d4aa407bba15640e418517adb",
+      "cc1abe1a69cdc9c4897cbf231964fdf2",
+      "554e4d971310a68da65c0263208359d5",
+      "42da870d77c365ae7c3205124422caed",
+      "bac43c37c717cd60072867eaf61a489c",
+      "f9ef37af8006e169b2cdff75c3f09822",
+      "06bce609c001cfd7ecf1b28a513b9a6c",
+      "a3b95b504e660fd9a0a645d488e5d54a",
+      "fb66eaa7f4dcafc341f28beb224ed40a",
+      "4ebbe234682bb529b210f85eebb6e4bb",
+      "ad8836860069f6cf2efaca49f071440e"
+    ],
+    "org_md5": "6327c035cb0a7ab779c5edc484edfc9e",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "f7313cd04f913c2c6cfd3a9a23662eed",
@@ -7105,6 +7437,30 @@
     "adddate": "2021\/09\/28"
   },
   {
+    "md5": "a1b2202eb47202b6c688279c266936ac",
+    "org_level": 24,
+    "title": "albagioso vergine [furioso]",
+    "artist": "けふぃー BGI:ましろ \/ obj: qtp13",
+    "folder": "LEVEL 27",
+    "level": "27",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=2&event=108",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=01604",
+    "name_diff": null,
+    "org_md5s": [
+      "74523a711a9155452635c988d4dd8bb1",
+      "d5ac452cc495b254c965deea14a1d5ad",
+      "a1b2202eb47202b6c688279c266936ac",
+      "6ad8f94f5df8f35b7441656d7e0d9ba2",
+      "37a79dd01cbbf14d096b925da4a93148",
+      "0b068445254564df2fd6b1bb9e49eb35",
+      "56c66bc0bbeac95cdce964ad447945f0"
+    ],
+    "org_md5": "74523a711a9155452635c988d4dd8bb1",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "1bcf005067e17e5da4c23a08eb19cbdd",
     "org_level": 7,
     "title": "Altale -Ragnarok-",
@@ -7273,6 +7629,28 @@
     "org_md5": "",
     "comment": "ディレイ、物量",
     "adddate": "2021\/09\/28"
+  },
+  {
+    "md5": "5851e7168badd9e3244e2ed5713f4ded",
+    "org_level": 25,
+    "title": "Lapis -The Heavens Remix- [Heaven7]",
+    "artist": "arranged by Yamajet \/ obj: qtp13",
+    "folder": "LEVEL 27",
+    "level": "27",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.yamajet.com\/music\/list.html",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=03116",
+    "name_diff": null,
+    "org_md5s": [
+      "bbbeca3d74c17dc266bc966fc4fd7846",
+      "ac79c5201ce99a362b19ba9850423459",
+      "c9acc3a21e8cfb55f3dffb64e7e90d31",
+      "035eec9c7964ebea27c4163def2453d1",
+      "5851e7168badd9e3244e2ed5713f4ded"
+    ],
+    "org_md5": "bbbeca3d74c17dc266bc966fc4fd7846",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "efbb396630c9cace3fd15643ff33e041",
@@ -7793,6 +8171,32 @@
     "adddate": "2021\/09\/21"
   },
   {
+    "md5": "f2bba8fd59b29034194c19cbbbe0c893",
+    "org_level": 25,
+    "title": "INSANER [DELAYER]",
+    "artist": "saaa obj: qtp13",
+    "folder": "LEVEL 28",
+    "level": "28",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=22&event=123",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02811",
+    "name_diff": null,
+    "org_md5s": [
+      "21f413901b10b720cf5d9b287c914659",
+      "b6d071c80ab9bb84f3280264e4c616c3",
+      "f55d3e14677ac7746f3b850dcc0fe9ae",
+      "ff266ff1714f46f9ccfeeb9116a38616",
+      "18a67c97e78b56f4b86e6c79404300a8",
+      "31c05b20050d8e822ef58e5667ce1a0f",
+      "0b4f2caeb39081a34a804235ce02c311",
+      "dc3aaf781ca05914840d55882fed0943",
+      "f2bba8fd59b29034194c19cbbbe0c893"
+    ],
+    "org_md5": "21f413901b10b720cf5d9b287c914659",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "824a6f8e2decccd4b460a9f160a4ce82",
     "org_level": 8,
     "title": "K8107 [.]",
@@ -8137,6 +8541,36 @@
     "org_md5": "ea45d392662e2568c0701cb47e493bf7",
     "comment": "",
     "adddate": "2021\/09\/28"
+  },
+  {
+    "md5": "73a6d3a0200735ccb0e0b58a6dafa76d",
+    "org_level": 24,
+    "title": "藍煉の人形 -EX EX-",
+    "artist": "-45 obj: qtp13",
+    "folder": "LEVEL 28",
+    "level": "28",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "12282f08b417278b6e0bf3a13bfaf7bb",
+      "d8c268c00c79e2d4176862082af56f55",
+      "26027b2ce9895a872eda58fefbf4293f",
+      "0589c5598a94ac2f020171b29f75d5f9",
+      "1b1e3dce6a3fe34c5211c66f72554cb3",
+      "57bf2117e01dba19e4fa172ade61d400",
+      "1def279d7874b586b26ed30a3c1233af",
+      "3f539f85c60dde65cc2d3336ed7f8f95",
+      "b5873754f1436ccb3faae89a12534a71",
+      "8a44bc0604c6804e19b3854636f6a514",
+      "8648c6bd9f380753007a3ded0184b3d6",
+      "4e61c848bf38812a148093226a74bc60",
+      "73a6d3a0200735ccb0e0b58a6dafa76d"
+    ],
+    "org_md5": "12282f08b417278b6e0bf3a13bfaf7bb",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "422a69e355f6747e93f8cc4f4c4f10de",
@@ -8861,22 +9295,6 @@
     "adddate": "2021\/09\/21"
   },
   {
-    "md5": "afd6e2a419f638d6c338d233daeb39e1",
-    "org_level": 10,
-    "title": "Lemuria[Tarvzich]",
-    "artist": "Festa 鑓田(alpha complex) \/ obj: qtp13",
-    "folder": "LEVEL 30",
-    "level": "30",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&event=110&num=536",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/1164",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "573",
-    "adddate": "2021\/09\/21"
-  },
-  {
     "md5": "392fc05a3b85e5dfeff29c2858cdd6b7",
     "org_level": 10,
     "title": "MARENOL -chrono revisior-",
@@ -8971,6 +9389,80 @@
     "org_md5": "",
     "comment": "322、430、645",
     "adddate": "2021\/09\/21"
+  },
+  {
+    "md5": "b76e212a46569482c5803a5834544175",
+    "org_level": 25,
+    "title": "ヒメタイプ [???]",
+    "artist": "ノクティス・江口・チェラム obj: qtp13",
+    "folder": "LEVEL 30",
+    "level": "30",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a5403b5987e427a7e357d0a4cf12b2df",
+      "cb9eb379844073aa0f8300e8c51a7042",
+      "2c236687689c77df9f4c441a7995f850",
+      "fb1e473a19648c9c893d10764a67e50e",
+      "9c1fc21d354dd92e3893b7a31fe7b84a",
+      "89b454eb8b7b72cdd0fb70601e937ca2",
+      "26a402f059b1a8f3d6b426a1763ab530",
+      "2a27ffc6c4c2d1ff845b5d49bf87b886",
+      "22a43cec2b900198838ce84870b4516e",
+      "8eb5059bfb390a18522a6d9b5cad9fc4",
+      "2b5564e80ac219934221edaeba464f06",
+      "be16830e484f2e0a137b4fc6225b4496",
+      "91d49ac611a5fc4266e79153f710ca80",
+      "b76e212a46569482c5803a5834544175",
+      "b2f893d1efb5f9aa2100a84ad0a3bffb",
+      "d6a2f738b3d383db092e65b46a86a829",
+      "1a5a681b93d2da23fe833d3dfaa0f36f",
+      "6ca5a0fc584e79d66c9fa3b4e6a7b2fc",
+      "c4881e70dfc2f65aca4e07d813425e4d",
+      "0e0619de679eb29af0ec907673e13d18",
+      "26b68e3ac17a24460df142858f8f55fe",
+      "dcf2129ab2be52287ceee9d733150f34",
+      "3843105cfe42c2affedeb64bb870db25",
+      "be15c9f54f0a0cd0e5c1737415dc7182",
+      "7e4ba12362bced1950dd4ba13c9d66f8",
+      "bd4fbac3ad2cf783e0600ec5272c8b8f",
+      "15ebd2f3aca1c35876c795c94c8d6302",
+      "16e3a4a9890414bd2963c9b016c4615a",
+      "0870f081e8c6b0ff48b19c5d0f0fb14e",
+      "5af7e240327d607043e2f959f995c4b6",
+      "39b7f5046cd3c1f1c15eabe29ff178e2",
+      "d0accfd39d0d3449b2e930d74b64adf7",
+      "bd46569126df72755c3a2a510a81fc40",
+      "4c302651c4ec4cecee388f76b6045964"
+    ],
+    "org_md5": "a5403b5987e427a7e357d0a4cf12b2df",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
+    "md5": "d8b5af1b34c32b8c05a51d8988f4c2df",
+    "org_level": 24,
+    "title": "緑眼のジェラシー [鬼]",
+    "artist": "zun \/ hakuto obj: qtp13 respect for q1",
+    "folder": "LEVEL 30",
+    "level": "30",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00733",
+    "name_diff": null,
+    "org_md5s": [
+      "5b6cc7c33905cd802fb2fdfc16db2dda",
+      "99df732558de7a852851d03c912dad4b",
+      "156e47654fe0f3113343c15b553696e4",
+      "2727c25838d47b5b9ddd485c20475792",
+      "8163b42e9915a84ef118be9d21ad48ca",
+      "d8b5af1b34c32b8c05a51d8988f4c2df"
+    ],
+    "org_md5": "5b6cc7c33905cd802fb2fdfc16db2dda",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "ee7c4da069a3d7d0f698441d97f332c5",
@@ -9131,6 +9623,22 @@
     "org_md5": "",
     "comment": "350",
     "adddate": "2021\/09\/21"
+  },
+  {
+    "md5": "afd6e2a419f638d6c338d233daeb39e1",
+    "org_level": 10,
+    "title": "Lemuria[Tarvzich]",
+    "artist": "Festa 鑓田(alpha complex) \/ obj: qtp13",
+    "folder": "LEVEL 31",
+    "level": "31",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&event=110&num=536",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/1164",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "573",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "58394c876fcf662e290482200a4b4ba7",
@@ -9664,6 +10172,28 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/09"
+  },
+  {
+    "md5": "9bd0ec1b38e1ec4fd2b626b33832913b",
+    "org_level": 25,
+    "title": "The Clock Song [Umnaylolno]",
+    "artist": "ぶどうとう mov : Hashirama Higashikata \/ obj: qtp13",
+    "folder": "LEVEL 99",
+    "level": "99",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=246&event=127",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=03482",
+    "name_diff": null,
+    "org_md5s": [
+      "391cc61ae7a1a44e744e66c1e8daac81",
+      "9bd0ec1b38e1ec4fd2b626b33832913b",
+      "2ed0d5e3044e0451f60068ce260c2c46",
+      "a4f168cc6b1317c8981994de454168ca",
+      "7b097ec723fbefcc45702c9b9ead0255"
+    ],
+    "org_md5": "391cc61ae7a1a44e744e66c1e8daac81",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "8568721b1b8031ffd4dd3542cd5ea29d",
