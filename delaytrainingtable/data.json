@@ -636,6 +636,30 @@
     "adddate": "2021\/09\/09"
   },
   {
+    "md5": "6cab0befff1e0174b96970dcfc2490ae",
+    "org_level": 8,
+    "title": "Escape From Predicament [Trouble]",
+    "artist": "ueotan obj: qtp13",
+    "folder": "LEVEL 8",
+    "level": "8",
+    "lr2_bmsid": null,
+    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/Escape%20From%20Predicament%20(by%20ueotan).rar",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02636",
+    "name_diff": null,
+    "org_md5s": [
+      "e5966088a0e6077984aa01dfcbcfd98b",
+      "36bff340c2b7e5195ef392124d0efbd8",
+      "27bb39b48a637b6f0a1039c10e17881e",
+      "765d908b35d56f9b2bb97d0fbd37d1ff",
+      "0cea8733b1c8c73d2fd64ca212b3e73c",
+      "ec1016fd51f3738b7a6e08541f10b5d5",
+      "6cab0befff1e0174b96970dcfc2490ae"
+    ],
+    "org_md5": "e5966088a0e6077984aa01dfcbcfd98b",
+    "comment": "",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "36bfe7053ba1b4c0e00f6f6b57c22141",
     "org_level": 8,
     "title": "FELYS [SRD]",
@@ -4254,6 +4278,26 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/21"
+  },
+  {
+    "md5": "2f5fb6614ddaf489a865efadbbb69805",
+    "org_level": 22,
+    "title": "PuppyMill(Till the End)",
+    "artist": "マキナ obj: qtp13",
+    "folder": "LEVEL 22",
+    "level": "22",
+    "lr2_bmsid": null,
+    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/PuppyMill%20(by%20%E3%83%9E%E3%82%AD%E3%83%8A).rar",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00678",
+    "name_diff": null,
+    "org_md5s": [
+      "979ea5fb35c5b174c624f008ba41080b",
+      "b352417fb670cec510e79004c575ef6e",
+      "2f5fb6614ddaf489a865efadbbb69805"
+    ],
+    "org_md5": "979ea5fb35c5b174c624f008ba41080b",
+    "comment": "",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "5bc86616c301d03d027881c256d2f748",
