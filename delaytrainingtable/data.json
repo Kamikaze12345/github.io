@@ -231,22 +231,6 @@
     "adddate": "2021\/09\/09"
   },
   {
-    "md5": "0e93bf97f5b137a2930d1437a86a8ac8",
-    "org_level": 3,
-    "title": "年中夢中な好奇心[morither]",
-    "artist": "er \/ obj morio",
-    "folder": "LEVEL 3",
-    "level": "3",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=36&event=92",
-    "url_diff": "http:\/\/flowermaster.web.fc2.com\/kikaku\/sabunsakusei.html",
-    "name_diff": "morio",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "連皿,縦連,ディレイ",
-    "adddate": "2021\/09\/28"
-  },
-  {
     "md5": "3b48a96876e3c65f9598a7ae9d95e6ba",
     "org_level": 12,
     "title": "Central DELAY [BEGINNER]",
@@ -988,22 +972,6 @@
     "adddate": "2021\/09\/09"
   },
   {
-    "md5": "5b0ace76e457dbfa3329674d70c36550",
-    "org_level": 10,
-    "title": "orange tea　[very hot]",
-    "artist": "Ym1024 \/ obj:VF",
-    "folder": "LEVEL 10",
-    "level": "10",
-    "lr2_bmsid": "165294",
-    "url": "http:\/\/yellowmapleleaf.com\/",
-    "url_diff": "http:\/\/dl.dropboxusercontent.com\/u\/94663500\/%23orange.rar",
-    "name_diff": "VF",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "局所ディレイ。かなりのラス殺しで難逃げのほうが簡単かと思われる。",
-    "adddate": "2021\/09\/28"
-  },
-  {
     "md5": "4bdc680b9c8b5b763caf01abf4f8c1f3",
     "org_level": 10,
     "title": "Strawberry Mint Chocolate [Pleasure]",
@@ -1525,22 +1493,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "ガチ押し、ディレイ",
-    "adddate": "2021\/09\/28"
-  },
-  {
-    "md5": "1fc675538a73ec033efc15f91de7cc77",
-    "org_level": 14,
-    "title": "ひつぎとふたご [SRD]",
-    "artist": "plastic feat.サキト \/ obj:sarada",
-    "folder": "LEVEL 14",
-    "level": "14",
-    "lr2_bmsid": "180984",
-    "url": "",
-    "url_diff": "http:\/\/www.geocities.jp\/bmsetc\/sabun\/",
-    "name_diff": "sarada",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "ディレイのない12分系。縦連と皿。",
     "adddate": "2021\/09\/28"
   },
   {
@@ -2137,22 +2089,6 @@
     "adddate": "2021\/09\/22"
   },
   {
-    "md5": "1abcae664a42b09d1b25dc7696b3769f",
-    "org_level": 11,
-    "title": "Black Lair [EXPERT]",
-    "artist": "削除 feat. void \/ 浪漫映像制作倶楽部 \/ obj : И",
-    "folder": "LEVEL 18",
-    "level": "18",
-    "lr2_bmsid": null,
-    "url": "http:\/\/web.archive.org\/web\/20131206203702\/http:\/\/sakuzyo.net\/sakuzyo_black_lair_ogg.zip",
-    "url_diff": "http:\/\/bms.parksulab.xyz\/",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "乱打、同時押し \/\/ 8,74小節に手動ディレイあり",
-    "adddate": "2021\/09\/28"
-  },
-  {
     "md5": "db251d5ace497321c8b9c3b128ad503f",
     "org_level": 18,
     "title": "Drive Me Insane [END PHASE]",
@@ -2229,6 +2165,22 @@
     "adddate": "2021\/09\/09"
   },
   {
+    "md5": "25eaf10ef0085443932317c03a65f333",
+    "org_level": 0,
+    "title": "Sunny [ディレイ&物量]",
+    "artist": "Yu^ta obj.quad",
+    "folder": "LEVEL 18",
+    "level": "18",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=201&event=110",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=2779",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl12\/405",
+    "adddate": "2021\/09\/30"
+  },
+  {
     "md5": "c7bbb20702438642af7a04677f68da54",
     "org_level": 20,
     "title": "Trinity [DELAYMASTER]",
@@ -2262,22 +2214,6 @@
     "org_md5": "724319e9bc052b1668932fc5ed8d3858",
     "comment": "",
     "adddate": "2021\/09\/19"
-  },
-  {
-    "md5": "13756934dd32940cdd59df75dc94509c",
-    "org_level": 11,
-    "title": "wholeheartedly[lightray]",
-    "artist": "siqlo \/obj:Block BGA:HalfEar",
-    "folder": "LEVEL 18",
-    "level": "18",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=325&event=133",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=05027",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "乱打、ディレイ、縦連、wholeheatedly[A].bms基準ズレ抜け無し。",
-    "adddate": "2021\/09\/28"
   },
   {
     "md5": "bca300b454c8d993060712e8ebdef243",
@@ -2655,22 +2591,6 @@
     "adddate": "2021\/09\/28"
   },
   {
-    "md5": "78897b6144c95a866b645f8d0a222959",
-    "org_level": 12,
-    "title": "タマモッチ [Snother]",
-    "artist": "LisicA movie : ルゼ(LuzeriA) \/ illust : Orphee \/ obj : スノート",
-    "folder": "LEVEL 19",
-    "level": "19",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=200&event=133",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=05062",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "乱打、縦連、ディレイ、同梱03_tamamo_spa.bms基準ズレ無し。",
-    "adddate": "2021\/09\/28"
-  },
-  {
     "md5": "c7f384d33fd08da0fda97112354a834c",
     "org_level": 13,
     "title": "ドキッ！けふぃーとひ・み・つｖのサッカータイム☆☆ニャホニャホしても、いいんですよ･･･？　～KEFIFAワールドカップ編 We love 汚滝健太郎～",
@@ -2707,6 +2627,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/09"
+  },
+  {
+    "md5": "95123d2e1b32efca74c78d718c044bc7",
+    "org_level": 19,
+    "title": "稲田姫様に叱られるから　(BEGINNER)",
+    "artist": "BMS：Ｆ／Ａ１８　MIDI：ロウファ　BGA:LZH　OBJ:air",
+    "folder": "LEVEL 19",
+    "level": "19",
+    "lr2_bmsid": "1504",
+    "url": "http:\/\/fa18af.sakura.ne.jp\/",
+    "url_diff": "http:\/\/skydrive.live.com\/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "name_diff": "http:\/\/skydrive.live.com\/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "https:\/\/box.yahoo.co.jp\/guest\/viewer?sid=box-l-psowqx7d4apyknjxp7udv5bq5a-1001&uniqid=21654e44-2e64-4215-a0f6-f674721548b6&viewtype=detail",
+    "adddate": "2021\/09\/30"
   },
   {
     "md5": "5d25abc0963c41b51e9fcfa1bbec9751",
@@ -3147,22 +3083,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "sl11\/266",
-    "adddate": "2021\/09\/21"
-  },
-  {
-    "md5": "25eaf10ef0085443932317c03a65f333",
-    "org_level": 0,
-    "title": "Sunny [ディレイ&物量]",
-    "artist": "Yu^ta obj.quad",
-    "folder": "LEVEL 20",
-    "level": "20",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=201&event=110",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=2779",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "sl12\/405",
     "adddate": "2021\/09\/21"
   },
   {
