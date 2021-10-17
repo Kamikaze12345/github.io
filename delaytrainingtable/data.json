@@ -1295,6 +1295,22 @@
     "adddate": "2021\/09\/23"
   },
   {
+    "md5": "9dd34100b83d5e091dcb76c5af65f4bc",
+    "org_level": 8,
+    "title": "年中夢中な好奇心 [ManiaK]",
+    "artist": "er obj:krg",
+    "folder": "LEVEL 11",
+    "level": " 11",
+    "lr2_bmsid": null,
+    "url": "https:\/\/dropbox.bms.ms\/u\/28765267\/er_kouki.zip",
+    "url_diff": "http:\/\/iroirokiba.web.fc2.com\/bms.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "KBでもできる皿、ズレ抜けは一部音を64分→48分に置き換えたことに依ります。",
+    "adddate": "2021\/10\/17"
+  },
+  {
     "md5": "9ca663f162a70b7c8c3819cd1c18708a",
     "org_level": 0,
     "title": "Altale[INSANE]",
