@@ -1,5 +1,5 @@
 {
-  "name": "DELAY training table",
+  "name": "DELAY\/SPEED training table",
   "symbol": "早い",
   "level_order": [
     " 0",
@@ -78,8 +78,8 @@
   "entry_type": "",
   "data_url": ".\/data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2021\/10\/21",
+  "last_update": "2021\/10\/22",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2021\/10\/21"
+  "output_date": "2021\/10\/22"
 }
