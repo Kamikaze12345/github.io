@@ -393,6 +393,22 @@
     "adddate": "2021\/09\/22"
   },
   {
+    "md5": "425557b1947505e4c304f50503fbf019",
+    "org_level": 3,
+    "title": "運命論 ~notte stellata~",
+    "artist": "ルゼ ☆ えみゅう。 ☆ 石王マサト, obj.SeunghoLee",
+    "folder": "LEVEL 4",
+    "level": " 4",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=205&event=88",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "階段",
+    "adddate": "2021\/11\/02"
+  },
+  {
     "md5": "4ffc2e2369740ac9d44da39cea5e0224",
     "org_level": 4,
     "title": "雪月夜鐘 -Monsther-",
@@ -865,22 +881,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "地力系の譜面だが終盤からディレイ。ラス殺しなので注意。",
-    "adddate": "2021\/09\/28"
-  },
-  {
-    "md5": "eb1fa15f642c14864007acacf0001214",
-    "org_level": 8,
-    "title": "Jack o' Frost [BLACK ANOTHER]",
-    "artist": "anubasu-anubasu \/ obj :5*LEAF BGA by zue-row",
-    "folder": "LEVEL 8",
-    "level": " 8",
-    "lr2_bmsid": "150921",
-    "url": "http:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=1&num=47",
-    "url_diff": "",
-    "name_diff": "同梱譜面",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "叩きにくい乱打。低速、終盤にディレイ。",
     "adddate": "2021\/09\/28"
   },
   {
@@ -1657,6 +1657,22 @@
     "adddate": "2021\/09\/09"
   },
   {
+    "md5": "bab8f02fd9e72da52f73e1f3ead5e9b0",
+    "org_level": null,
+    "title": "G e n g a o z o [ディレイがお好きなすべてのあなたに]",
+    "artist": "455-38B \/ obj:lighter",
+    "folder": "LEVEL 13",
+    "level": " 13",
+    "lr2_bmsid": null,
+    "url": "http:\/\/malie.noor.jp\/archive\/gengaozo_.rar",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up5089.rar",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "306",
+    "adddate": "2021\/11\/02"
+  },
+  {
     "md5": "35af4caeef907305379bde8a758db495",
     "org_level": 0,
     "title": "Low Tetris Beatbox [DELAYMASTER]",
@@ -1707,6 +1723,22 @@
     "org_md5": "658ccecc4136ed4a4572a2cc3c45f63b",
     "comment": "",
     "adddate": "2021\/09\/23"
+  },
+  {
+    "md5": "5043ca33fac6f0d2078a4c04ebdeb729",
+    "org_level": 7,
+    "title": "ココナツ・アバンチュール [SP BLACKANOTHER]",
+    "artist": "ぽんきち",
+    "folder": "LEVEL 13",
+    "level": " 13",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=229&event=116",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2021\/11\/02"
   },
   {
     "md5": "48cc49bdebe963a1cb9d447d53735ec8",
@@ -1886,22 +1918,6 @@
     "org_md5": "",
     "comment": "ディレイ",
     "adddate": "2021\/09\/28"
-  },
-  {
-    "md5": "bab8f02fd9e72da52f73e1f3ead5e9b0",
-    "org_level": null,
-    "title": "G e n g a o z o [ディレイがお好きなすべてのあなたに]",
-    "artist": "455-38B \/ obj:lighter",
-    "folder": "LEVEL 15",
-    "level": " 15",
-    "lr2_bmsid": null,
-    "url": "http:\/\/malie.noor.jp\/archive\/gengaozo_.rar",
-    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up5089.rar",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "306",
-    "adddate": "2021\/10\/25"
   },
   {
     "md5": "7fd42694aef41f96565c50d6c764b3fe",
@@ -3033,22 +3049,6 @@
     "org_md5": "e572e41bbe28dd935eb2ca1f786626f5",
     "comment": "",
     "adddate": "2021\/09\/09"
-  },
-  {
-    "md5": "30dda2d1a9c99c211ad0bbade0e498d5",
-    "org_level": 19,
-    "title": "アリスの空虚で愉快な人形劇[第2幕]",
-    "artist": "ろうて \/obj れふれふ",
-    "folder": "LEVEL 19",
-    "level": " 19",
-    "lr2_bmsid": null,
-    "url": "http:\/\/rattoto10.jounin.jp\/js\/h%3E%E6%9C%AC%E4%BD%93URL%3C\/th%3E%3Ctd%20colspan=",
-    "url_diff": "http:\/\/rattoto10.jounin.jp\/js\/h%3E%E5%B7%AE%E5%88%86URL%3C\/th%3E%3Ctd%20colspan=",
-    "name_diff": "れふれふ",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "乱打・同時押し・ディレイ",
-    "adddate": "2021\/09\/28"
   },
   {
     "md5": "c7f384d33fd08da0fda97112354a834c",
@@ -4810,22 +4810,6 @@
     "org_md5": "",
     "comment": "SuperSweet! >.<",
     "adddate": "2021\/09\/21"
-  },
-  {
-    "md5": "e8c1f79feb118c4078c993ff89595733",
-    "org_level": 2,
-    "title": "Love & Justice [7KEYS 修羅BEGINNER]",
-    "artist": "フロン \/ ラズベリル \/ obj:夢瑠",
-    "folder": "LEVEL 22",
-    "level": " 22",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=227&event=65",
-    "url_diff": "http:\/\/yumerusabun.web.fc2.com\/nue.html",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "DELAY",
-    "adddate": "2021\/09\/09"
   },
   {
     "md5": "4709c903d17c408695c131d230c20dc5",
@@ -8626,7 +8610,7 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "地力+ディレイ",
-    "adddate": "2021\/09\/28"
+    "adddate": "2021\/11\/02"
   },
   {
     "md5": "a1b2202eb47202b6c688279c266936ac",
@@ -9579,22 +9563,6 @@
     "org_md5": "",
     "comment": "連打複合、ディレイ",
     "adddate": "2021\/09\/28"
-  },
-  {
-    "md5": "57073fac4f6b8f6f298f1caf82effdb0",
-    "org_level": 8,
-    "title": "Nyan-Nyan Naughty Night [N,N,N′,N′-Tetramethylethylenediamine－]",
-    "artist": "かたぎり \/ おたく BGI: morph",
-    "folder": "LEVEL 28",
-    "level": " 28",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=127&event=133",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04837",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "242",
-    "adddate": "2021\/09\/21"
   },
   {
     "md5": "6ef32f385b60a56e1a2583de6e619ee1",
