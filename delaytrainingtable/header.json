@@ -1,6 +1,6 @@
 {
   "name": "DELAY\/SPEED training table",
-  "symbol": "早い",
+  "symbol": "速い",
   "level_order": [
     " 0",
     " 1",
@@ -81,5 +81,5 @@
   "last_update": "2021\/11\/03",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2021\/11\/03"
+  "output_date": "2021\/11\/05"
 }
