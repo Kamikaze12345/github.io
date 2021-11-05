@@ -1805,22 +1805,6 @@
     "adddate": "2021\/09\/09"
   },
   {
-    "md5": "a7a878ab36a579e6663faf7db022e8d4",
-    "org_level": 14.19,
-    "title": "Central DELAY 6key",
-    "artist": "P.E. \/ SGR",
-    "folder": "LEVEL 14",
-    "level": " 14",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(Max:15.84, LN:0.0%)",
-    "adddate": "2021\/11\/03"
-  },
-  {
     "md5": "eef4261a57a4c6b3b18333daf06cac30",
     "org_level": 13.91,
     "title": "Crescent Edge 7Ultimate Delay",
@@ -2087,22 +2071,6 @@
     "org_md5": "",
     "comment": "★22と同じアレンジ。重発狂とディレイと皿複合。",
     "adddate": "2021\/09\/28"
-  },
-  {
-    "md5": "756159f42aac4176c0abcea09d1ab9b3",
-    "org_level": 14,
-    "title": "Online [Network Delayed]",
-    "artist": "牧野 \/ FFFaaaaaaaxxxaxx...x..x.",
-    "folder": "LEVEL 15",
-    "level": " 15",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=301&event=83",
-    "url_diff": "http:\/\/www.dropbox.com\/s\/8rqn7dwinxb8ne9\/%23Online_Delay.bms?dl=0",
-    "name_diff": "FFFaaaaaaaxxxaxx...x..x.",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2021\/09\/23"
   },
   {
     "md5": "1ebf61990256b79628c9dee6a926ad39",
@@ -2394,22 +2362,6 @@
     "adddate": "2021\/09\/28"
   },
   {
-    "md5": "600000595d703aabbfa8a2902d622a3d",
-    "org_level": 17.8,
-    "title": "★SweeT DiscoverY★[DELAY]",
-    "artist": "chocolate max \/差分　赤い人",
-    "folder": "LEVEL 17",
-    "level": " 17",
-    "lr2_bmsid": null,
-    "url": "http:\/\/web.archive.org\/web\/20070727155719fw_\/http:\/\/sasakure.bms.ms\/music\/sweet.htm",
-    "url_diff": "http:\/\/akred.web.fc2.com\/ak-red-new.html",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(Max:18.39, LN:0.0%)",
-    "adddate": "2021\/11\/03"
-  },
-  {
     "md5": "a175405abfbf0f625a51c8507fc19fc5",
     "org_level": 17.19,
     "title": "Crescent Edge [Full Moon Edge]",
@@ -2460,22 +2412,6 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/22"
-  },
-  {
-    "md5": "b4d115e963fdaaa6796c447150284e2c",
-    "org_level": 17.05,
-    "title": "EOS(Delay Must Die)",
-    "artist": "ginkiha obj.0manc0",
-    "folder": "LEVEL 17",
-    "level": " 17",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=300&event=83",
-    "url_diff": "http:\/\/onmacodayo.web.fc2.com\/eos\/eos_DMD.bms",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(Max:19.9, LN:0.04%)",
-    "adddate": "2021\/11\/03"
   },
   {
     "md5": "abaad8dae6cc9d43310c84f765d3c340",
@@ -2635,6 +2571,22 @@
     "adddate": "2021\/09\/09"
   },
   {
+    "md5": "756159f42aac4176c0abcea09d1ab9b3",
+    "org_level": 14,
+    "title": "Online [Network Delayed]",
+    "artist": "牧野 \/ FFFaaaaaaaxxxaxx...x..x.",
+    "folder": "LEVEL 17",
+    "level": " 17",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=301&event=83",
+    "url_diff": "http:\/\/www.dropbox.com\/s\/8rqn7dwinxb8ne9\/%23Online_Delay.bms?dl=0",
+    "name_diff": "FFFaaaaaaaxxxaxx...x..x.",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2021\/11\/05"
+  },
+  {
     "md5": "0b50cb43e906aae32abb418f3436a0cc",
     "org_level": -1,
     "title": "ディレイ鎮守府 母港のテーマ",
@@ -2649,22 +2601,6 @@
     "org_md5": "",
     "comment": "297?",
     "adddate": "2021\/10\/25"
-  },
-  {
-    "md5": "4fb249a830431969f0e22053805c3d20",
-    "org_level": 17.1,
-    "title": "もっと！Central DELAY 6key",
-    "artist": "P.E. \/ SGR as 発汗BMS",
-    "folder": "LEVEL 17",
-    "level": " 17",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(Max:17.14, LN:0.0%)",
-    "adddate": "2021\/11\/03"
   },
   {
     "md5": "c118d0dd0a62ea0991645caf06919b3f",
@@ -2795,6 +2731,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/09"
+  },
+  {
+    "md5": "715870210b7b730fc8092a9b560cb657",
+    "org_level": 18.87,
+    "title": "G e n g a o z o _ d e l a y",
+    "artist": "455-38B \/ obj:chack",
+    "folder": "LEVEL 18",
+    "level": " 18",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www5.pf-x.net\/~malie\/",
+    "url_diff": "http:\/\/chack3sabun.web.fc2.com\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "(Max:20.18, LN:0.0%)",
+    "adddate": "2021\/11\/05"
   },
   {
     "md5": "a87dd6a2b9acdf60ee984e0d7cf5d36a",
@@ -3030,6 +2982,22 @@
     "adddate": "2021\/09\/09"
   },
   {
+    "md5": "b4d115e963fdaaa6796c447150284e2c",
+    "org_level": 17.05,
+    "title": "EOS(Delay Must Die)",
+    "artist": "ginkiha obj.0manc0",
+    "folder": "LEVEL 19",
+    "level": " 19",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=300&event=83",
+    "url_diff": "http:\/\/onmacodayo.web.fc2.com\/eos\/eos_DMD.bms",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "(Max:19.9, LN:0.04%)",
+    "adddate": "2021\/11\/05"
+  },
+  {
     "md5": "b1f052bab19862e0be6d1cdd96fb312c",
     "org_level": 19,
     "title": "EXILE　[7_Clover]",
@@ -3076,22 +3044,6 @@
     "org_md5": "",
     "comment": "PABAT! 2014 Seasons Append Packagehttps:\/\/docs.google.com\/document\/d\/1eQPUVFPNFoRCZ3u-Ov8Beko9CSr_odrTe5VdzhPAUsk\/",
     "adddate": "2021\/10\/10"
-  },
-  {
-    "md5": "715870210b7b730fc8092a9b560cb657",
-    "org_level": 18.87,
-    "title": "G e n g a o z o _ d e l a y",
-    "artist": "455-38B \/ obj:chack",
-    "folder": "LEVEL 19",
-    "level": " 19",
-    "lr2_bmsid": null,
-    "url": "http:\/\/www5.pf-x.net\/~malie\/",
-    "url_diff": "http:\/\/chack3sabun.web.fc2.com\/",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(Max:20.18, LN:0.0%)",
-    "adddate": "2021\/11\/03"
   },
   {
     "md5": "1aa6618d671728be96004e3a00173be7",
@@ -3914,22 +3866,6 @@
     "adddate": "2021\/09\/21"
   },
   {
-    "md5": "969d51c2d2e34bf07cef084c9ce78bcc",
-    "org_level": 20,
-    "title": "オルゴオル☆ディレイ",
-    "artist": "MILK \/ obj:sarao3",
-    "folder": "LEVEL 20",
-    "level": " 20",
-    "lr2_bmsid": null,
-    "url": "http:\/\/diverse.jp\/dbhtml\/",
-    "url_diff": "https:\/\/web.archive.org\/web\/20160917081229\/http:\/\/www.geocities.jp\/osara3109\/",
-    "name_diff": "sarao3",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2021\/09\/09"
-  },
-  {
     "md5": "b3ef46f7cafc58697bf5c5b7cbb9487a",
     "org_level": 0,
     "title": "さようなら、いままでディレイをありがとう",
@@ -4667,6 +4603,22 @@
     "org_md5": "",
     "comment": "多要素(同時 微連打 ディレイ 皿 階段 )",
     "adddate": "2021\/09\/28"
+  },
+  {
+    "md5": "969d51c2d2e34bf07cef084c9ce78bcc",
+    "org_level": 20,
+    "title": "オルゴオル☆ディレイ",
+    "artist": "MILK \/ obj:sarao3",
+    "folder": "LEVEL 21",
+    "level": " 21",
+    "lr2_bmsid": null,
+    "url": "http:\/\/diverse.jp\/dbhtml\/",
+    "url_diff": "https:\/\/web.archive.org\/web\/20160917081229\/http:\/\/www.geocities.jp\/osara3109\/",
+    "name_diff": "sarao3",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2021\/11\/05"
   },
   {
     "md5": "5e05f6064ca48c572c931d50aa34fbbe",
