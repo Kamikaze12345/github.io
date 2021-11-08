@@ -218,6 +218,22 @@
     "adddate": "2021\/09\/09"
   },
   {
+    "md5": "b9c7bc62daea8f9ccd4502328d624486",
+    "org_level": 1,
+    "title": "Strawberry Mint Chocolate [ice cream]",
+    "artist": "Yu^ta feat. みずにんじん",
+    "folder": "LEVEL 1",
+    "level": " 1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/yuinore.net\/2017\/02\/smc-package\/",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "乱打と同時",
+    "adddate": "2021\/11\/08"
+  },
+  {
     "md5": "a4f168cc6b1317c8981994de454168ca",
     "org_level": 12,
     "title": "The Clock Song [D-Hyper]",
@@ -341,6 +357,22 @@
     "org_md5": "8ff6b49a96dc4f89552a74477f2cc361",
     "comment": "",
     "adddate": "2021\/09\/30"
+  },
+  {
+    "md5": "6121bb44424847b74cb8aceab04bc79d",
+    "org_level": 2,
+    "title": "キミとボクへの葬送歌 [sagANOTHER]",
+    "artist": "ROKINA \/ obj:sagoo BGA:REI-K",
+    "folder": "LEVEL 3",
+    "level": " 3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&event=104&num=4",
+    "url_diff": "https:\/\/onedrive.live.com\/redir?resid=A972E7D14DCFAF93!110&authkey=!ADuXxYDZsf_L-I8&ithint=folder%2czip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2021\/11\/08"
   },
   {
     "md5": "8fb80c9edb5cb517a28f0c6f0c95f461",
@@ -487,6 +519,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2021\/09\/09"
+  },
+  {
+    "md5": "a98ff1c9d7ffac9cb333b7278306bbb4",
+    "org_level": 3,
+    "title": "プナイプナイせんそう[HARD]",
+    "artist": "立秋 feat.ちょこ \/obj:赤い人",
+    "folder": "LEVEL 5",
+    "level": " 5",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=104&event=123",
+    "url_diff": "http:\/\/akred.web.fc2.com\/bmsfile\/_punaipunai2_HARD.bms",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "(ง '-' )ง うーっ ٩( 'o' )۶プナイプナイ〜っ！！",
+    "adddate": "2021\/11\/08"
   },
   {
     "md5": "fbb94ec3b1da64dc1f7bb7bd17e72a12",
