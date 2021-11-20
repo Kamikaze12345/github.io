@@ -677,22 +677,6 @@
     "adddate": "2021\/09\/22"
   },
   {
-    "md5": "2751c1de69b7673d3d40c1a9dd73f7c2",
-    "org_level": 6,
-    "title": "繋いで！Miracle☆Wish (圏外)",
-    "artist": "nmk feat.かなえゆめ obj:alt BGA:石王マサト",
-    "folder": "LEVEL 6",
-    "level": " 6",
-    "lr2_bmsid": "183052",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=16&event=92",
-    "url_diff": "http:\/\/goo.gl\/RA3GW",
-    "name_diff": "alt",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "縦連、皿、中盤ディレイ。ラス殺し。",
-    "adddate": "2021\/09\/28"
-  },
-  {
     "md5": "9db34f9c45febe201bdb92a95fbd555a",
     "org_level": 6,
     "title": "聖剣伝説2 ～天使の怖れ～ [ZOI-Delay]",
@@ -4369,22 +4353,6 @@
     "org_md5": "",
     "comment": "BPM489.31",
     "adddate": "2021\/09\/21"
-  },
-  {
-    "md5": "908d75ff54e057931ab2ec97454f1577",
-    "org_level": 1,
-    "title": "ha＠ppy s＠mmer v＠c＠tion!![unha＠ppy s＠mmer v＠c＠tion!!]",
-    "artist": "ああああ + 翡乃イスカ \/ A",
-    "folder": "LEVEL 21",
-    "level": " 21",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=381&event=116",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=01745",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "乱打 すこし微連打 微ディレイ",
-    "adddate": "2021\/09\/28"
   },
   {
     "md5": "ad5917cc6e4c4c681cfc2e91620e3eb8",
