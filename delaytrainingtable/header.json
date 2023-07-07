@@ -1,5 +1,5 @@
 {
-  "name": "DELAY\/SPEED training table",
+  "name": "DELAY Training Table",
   "symbol": "速い",
   "level_order": [
     " 0",
@@ -35,7 +35,8 @@
     " 30",
     " 31",
     " 32",
-    " ?"
+    " ?",
+    ""
   ],
   "folder_order": [
     "LEVEL 0",
@@ -71,15 +72,16 @@
     "LEVEL 30",
     "LEVEL 31",
     "LEVEL 32",
-    "LEVEL ?"
+    "LEVEL ?",
+    ""
   ],
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": ".\/data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2022\/01\/09",
+  "last_update": "2022\/10\/28",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2022\/01\/09"
+  "output_date": "2023\/07\/07"
 }
